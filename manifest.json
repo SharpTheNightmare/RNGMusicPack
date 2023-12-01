@@ -1,0 +1,9 @@
+{
+    "name": "RNGMusicPack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Dababy",
+    "dependencies": [
+        "CodeEnder-Custom_Boombox_Fix-1.2.1"
+    ]
+}
